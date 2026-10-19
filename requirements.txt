@@ -1,0 +1,7 @@
+# Phase 1-2 (reference model). Pinned loosely; tighten when CI is first run.
+numpy>=1.26
+# Phase 4 (RTL tests) - not yet used
+# cocotb>=1.9
+# pytest>=8
+# Phase 5 (compiler MVP) - not yet used
+# onnx>=1.16

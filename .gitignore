@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+sim_build/
+obj_dir/
+*.vcd
+*.fst
+*.log
+.pytest_cache/
+# Never commit proprietary PDKs, licensed IP or credentials
+pdk/
+*.lib
+*.lef
+*.gds
+.env
